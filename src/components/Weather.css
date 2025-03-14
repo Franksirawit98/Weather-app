@@ -73,3 +73,11 @@
     height: 35px;
     margin-top: 10px;
 }
+@media(max-width:430px) {
+        .weather{
+        padding: 20px;
+    } 
+        .temperture {
+        font-size: 60px;
+    }
+}
